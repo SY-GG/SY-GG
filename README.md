@@ -13,14 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Slice&color=timeGradient&height=300&section=header&text=%20&fontSize=90)
-
-
-> 프론트엔드 개발자
-박세영입니다!
+> 개발 공부 중 !
 
 # Stack
-- HTML, CSS, Javascript, Vue.js
+- HTML, CSS, Javascript, JSP, Vue.js, Spring, Spring Boot, SQL(Oracle)
 - Tools : VSCode
 - Etc : Notion, Figma, Zeplin, Jira
 
