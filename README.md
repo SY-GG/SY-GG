@@ -13,11 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> 개발 공부 중 !
 
 # Stack
 - HTML, CSS, Javascript, JSP, Vue.js, Spring, Spring Boot, SQL(Oracle)
-- Tools : VSCode
+- Tools : VSCode, Eclipse, STS
 - Etc : Notion, Figma, Zeplin, Jira
 
 
